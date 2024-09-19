@@ -6,7 +6,7 @@ h1 {
   background-image: url("asd.gif");
   background-size: cover;
   text-align: center;
-  margin: auto 15px;
+  margin: 10% auto;
  }
  input#name {
   padding: 5px;
