@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+ }
+ body {
+  background-image: url("asd.gif");
+  background-size: cover;
+  text-align: center;
+  margin: auto 15px;
+ }
+ input#name {
+  padding: 5px;
+ }
+ input#age {
+  padding: 5px;
+  margin-right: -10px;
+ }
+ input#email {
+  padding: 5px;
+ }
+ input#hobbies {
+  padding: 5px;
+ }
+ button {
+  padding: 10px;
+ }
